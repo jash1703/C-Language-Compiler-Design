@@ -1,4 +1,4 @@
-# Compiler-Design_C
+# C-Language-Compiler-Design
 
  This project is aimed at implementing a compiler for the C programming language. It consists of three main components: a lexical analyzer, a syntax analyzer, and an intermediate code generator. Each component plays a crucial role in the compilation process, transforming human-readable C code into machine-executable instructions.
 
